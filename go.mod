@@ -5,3 +5,5 @@ go 1.17
 replace github.com/octopus-corporation/walle/requests => ./requests
 
 replace github.com/octopus-corporation/walle/response => ./response
+
+replace github.com/octopus-corporation/walle/bot => ./bot
